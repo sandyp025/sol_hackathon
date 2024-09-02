@@ -36,7 +36,7 @@ export const AppBar: FC = (props) => {
               <img
                 src="assets/images/logo1.png"
                 className="h-10"
-                alt="WebAi Logo"
+                alt="Logo"
               />
             </a>
 
