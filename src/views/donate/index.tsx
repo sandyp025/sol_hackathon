@@ -46,7 +46,7 @@ export const DonateView: FC = ({ setOpenSendTransaction }) => {
     }
 
     const creatorAddress = new PublicKey(
-      "vCNxUc8u9vjUFFoAfdcXhky7o7PDbfzhriu11e6yqAi"
+      "3aQ242teinAB1i4njaXf6tCjTon5KjUSbWYWjMdUyfD3"
     );
     let signature: TransactionSignature = "";
 
